@@ -10,6 +10,4 @@ An application dedicated to Alzheimer's patients and their families, as well as 
 2- [View The project on Behance]
 https://www.behance.net/gallery/211930077/Moaen-App
 
-3- [view the project on figma]
-(https://www.figma.com/proto/8HAoGw5HfCBV0CHfENQ7iA/Moa'en-App-design?node-id=2121-33&t=fLUKEBGrBCFVCmBi-1)
 
